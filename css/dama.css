@@ -1,0 +1,35 @@
+.contenedor{
+    background: rgba(173, 124, 219, 0.733);
+}
+
+h1{
+    font-size: 100px;
+    margin-left: 500px;
+    font-family: 'Calistoga', cursive;
+    text-shadow: rgb(255, 248, 220) 3px 3px;
+}
+
+.dama{
+    width: 50vh;
+    border-radius: 50px;
+}
+
+h2{
+    margin-left: 100px;
+    font-family: 'Lobster', cursive;
+    font-size: 30px;
+}
+
+.zapatillas{
+    width: 80vh;
+}
+
+.dos{
+    margin-left: 10px;
+}
+
+h3{
+    margin-top: 25vh;
+    font-family: 'Righteous', cursive;
+    margin-left: 50px;
+}
