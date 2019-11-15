@@ -1,0 +1,35 @@
+#caballeros{
+    background: #ac680fda;
+}
+
+.duo{
+    width: 70vh;
+    margin-left: 50px;
+    margin-top: 100px;
+    border-radius: 20px;
+}
+
+.caba{
+    text-shadow: darksalmon 3px 3px;
+    font-family: 'Yeon Sung', cursive;
+    font-size: 65px;
+    text-align: center;
+}
+
+.logo{
+    width: 200px;
+    border-radius: 50px;
+    margin-left: 80px;
+}
+.playera{
+    width: 50vh;
+    border-radius: 10px;
+}
+
+.mejor{
+    font-size: 50px;
+    text-align: center;
+    font-family: 'Yeon Sung', cursive;
+    margin-top: 30px;
+    text-shadow: darksalmon 3px 3px;
+}

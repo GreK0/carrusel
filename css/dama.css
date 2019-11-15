@@ -3,33 +3,38 @@
 }
 
 h1{
-    font-size: 100px;
-    margin-left: 500px;
+    font-size: 50px;
+    
     font-family: 'Calistoga', cursive;
     text-shadow: rgb(255, 248, 220) 3px 3px;
+    text-align: center;
 }
 
 .dama{
-    width: 50vh;
+    width: 40vh;
     border-radius: 50px;
+    margin-left: 80px;
+    margin-top: 50px;
 }
 
 h2{
-    margin-left: 100px;
+    margin-left: 80px;
     font-family: 'Lobster', cursive;
     font-size: 30px;
 }
 
 .zapatillas{
-    width: 80vh;
+    width: 40vh;
 }
 
 .dos{
     margin-left: 10px;
+    width: auto;
 }
 
 h3{
-    margin-top: 25vh;
+    margin-top: 50px;
     font-family: 'Righteous', cursive;
     margin-left: 50px;
 }
+

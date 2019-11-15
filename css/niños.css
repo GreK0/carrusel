@@ -1,0 +1,49 @@
+#niños{
+    background: rgb(145, 228, 62);
+}
+#uno{
+    background: crimson;
+    margin: 0px;
+    padding: 0px;
+}
+    
+.grupo{
+    margin-left: 80px;
+    width: 300px;
+    margin-top: 20px;
+}
+
+#dos{
+    background: orangered;
+}
+.boys{
+    width: 400px;
+    margin-left: 30px;
+    border-radius: 20px;
+}
+
+.logito{
+    width: 200px;
+    border-radius: 50px;
+    margin: 80px;
+}
+
+.pequeños{
+    text-align: center;
+    font-family: 'ZCOOL KuaiLe', cursive;
+    font-size: 50px;
+    color: #e41717;
+    text-shadow: gainsboro 3px 3px;
+}
+
+#tres{
+    background: darkblue;
+}
+
+.titulo{
+    font-size: 80px;
+    text-align: center;
+    color: gainsboro;
+    font-family: 'Fredoka One', cursive;
+    text-shadow: maroon 5px 5px;
+}
